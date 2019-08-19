@@ -1,0 +1,18 @@
+Form Validation Notes
+
+What is form validation? 
+	- form validation is the process of double checking any data that the user enters into your form.
+
+Client Side (JavaScript)
+	- anything that runs within the visitor's browser. Doesn't require a server to work.
+
+Server Side (PHP)
+	- Programs that exist on the server. 
+
+
+
+
+
+
+
+
