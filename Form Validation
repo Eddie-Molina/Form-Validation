@@ -7,7 +7,9 @@ Client Side (JavaScript)
 	- anything that runs within the visitor's browser. Doesn't require a server to work.
 
 Server Side (PHP)
-	- Programs that exist on the server. 
+	- Programs that exist on the server
+
+
 
 
 
